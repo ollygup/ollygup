@@ -5,8 +5,7 @@
 </div>
 
 <p align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=0&pause=99999&center=true&width=500&lines=yeah+i+exist.+occasionally+building+things.](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=99999999&pause=99999999&center=true&width=500&lines=yeah+i+exist.+occasionally+building+things.
-)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=yeah+i+exist.;occasionally+building+things.;no+guarantee+they+work.;but+they+might." alt="Typing SVG" />
 </p>
 
 ---
