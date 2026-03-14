@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**ollygup/ollygup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=yeah+i+exist.;occasionally+building+things.;no+guarantee+they+work.;but+they+might." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what i've built (allegedly)
+
+| Project | What it does | Status |
+|---|---|---|
+| [Whispr](https://whispr-file.vercel.app) | P2P file transfer, no cloud, no nonsense | ✅ live |
+| [ChatGlobe](https://chatglobe.vercel.app) | Real-time chat/video call on a 3D globe with randoms | ✅ live |
+
+> ⚠️ If things are slow, the server is on a cold start. Refresh and wait a minute. Or don't. Up to you.
