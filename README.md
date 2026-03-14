@@ -15,5 +15,4 @@
 ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square) Real-time E2EE chat/video call on a 3D globe with randoms
 
 
-<br />
 > ⚠️ Website not loading? Servers are on a cold start. Refresh and wait a minute, or don't (please please please please please wait)
