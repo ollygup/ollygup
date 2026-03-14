@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=yeah+i+exist.;occasionally+building+things.;no+guarantee+they+work.;but+they+might." alt="Typing SVG" />
 </p>
