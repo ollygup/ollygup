@@ -6,12 +6,12 @@
 
 </div>
 
-### Personl Projects 
+### Personal Projects
 
-**[Whispr](https://whispr-file.vercel.app)** ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square)
-P2P file transfer, no cloud, no nonsense · [frontend](https://github.com/ollygup/WhisprWeb) · [backend](https://github.com/ollygup/Whispr)
+**[Whispr](https://whispr-file.vercel.app)**
+![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square) P2P file transfer, no cloud, no nonsense · [frontend](https://github.com/ollygup/WhisprWeb) · [backend](https://github.com/ollygup/Whispr)
 
-**[ChatGlobe](https://chatglobe.vercel.app)** ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square)
-Real-time chat/video call on a 3D globe with randoms
+**[ChatGlobe](https://chatglobe.vercel.app)**
+![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square) Real-time chat/video call on a 3D globe with randoms
 
 > ⚠️ Website not loading? Servers are on a cold start. Refresh and wait a minute, or don't (please please please please please wait)
