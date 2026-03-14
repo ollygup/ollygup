@@ -16,7 +16,7 @@
 <table border="0"><tr>
 <td align="center" width="350" style="border:1px solid #30363d; border-radius:8px; padding:16px;">
 
-### [🔒 Whispr](https://whispr-file.vercel.app) ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square)
+### [Whispr](https://whispr-file.vercel.app) ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square)
 
 P2P file transfer, no cloud, no nonsense
 
@@ -26,7 +26,7 @@ P2P file transfer, no cloud, no nonsense
 <td width="32"></td>
 <td align="center" width="350" style="border:1px solid #30363d; border-radius:8px; padding:16px;">
 
-### [🌍 ChatGlobe](https://chatglobe.vercel.app) ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square)
+### [ChatGlobe](https://chatglobe.vercel.app) ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square)
 
 Real-time chat/video call on a 3D globe with randoms
 
