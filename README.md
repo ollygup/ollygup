@@ -13,24 +13,27 @@
 
 ### what i've built (allegedly)
 
-<table>
-<tr>
-<td align="center" width="400">
-<h3><a href="https://whispr-file.vercel.app">🔒 Whispr</a></h3>
-<p>P2P file transfer, no cloud, no nonsense</p>
-<a href="https://github.com/ollygup/WhisprWeb">frontend</a> · <a href="https://github.com/ollygup/Whispr">backend</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/-live-brightgreen?style=flat-square"/>
+<table border="0"><tr>
+<td align="center" width="350" style="border:1px solid #30363d; border-radius:8px; padding:16px;">
+
+### [🔒 Whispr](https://whispr-file.vercel.app) ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square)
+
+P2P file transfer, no cloud, no nonsense
+
+[frontend](https://github.com/ollygup/WhisprWeb) · [backend](https://github.com/ollygup/Whispr)
+
 </td>
-<td align="center" width="400">
-<h3><a href="https://chatglobe.vercel.app">🌍 ChatGlobe</a></h3>
-<p>Real-time chat/video call on a 3D globe with randoms</p>
+<td width="32"></td>
+<td align="center" width="350" style="border:1px solid #30363d; border-radius:8px; padding:16px;">
+
+### [🌍 ChatGlobe](https://chatglobe.vercel.app) ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square)
+
+Real-time chat/video call on a 3D globe with randoms
+
 —
-<br/><br/>
-<img src="https://img.shields.io/badge/-live-brightgreen?style=flat-square"/>
+
 </td>
-</tr>
-</table>
+</tr></table>
 
 ⚠️ Website not loading? Servers are on a cold start. Refresh and wait a minute, or don't (please please please please please wait)
 
