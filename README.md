@@ -6,7 +6,7 @@
 
 </div>
 
-### what i've built (allegedly)
+### Personl Projects 
 
 **[Whispr](https://whispr-file.vercel.app)** ![Live](https://img.shields.io/badge/-live-brightgreen?style=flat-square)
 P2P file transfer, no cloud, no nonsense · [frontend](https://github.com/ollygup/WhisprWeb) · [backend](https://github.com/ollygup/Whispr)
