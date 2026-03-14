@@ -13,6 +13,6 @@
 | [Whispr](https://whispr-file.vercel.app) | [frontend](https://github.com/ollygup/WhisprWeb) · [backend](https://github.com/ollygup/Whispr) | P2P file transfer, no cloud, no nonsense | ✅ live |
 | [ChatGlobe](https://chatglobe.vercel.app) | — | Real-time chat/video call on a 3D globe with randoms | ✅ live |
 
-> ⚠️ Servers are on a cold start. Slow? Refresh and wait a minute. Or don't. Up to you.
+⚠️ Servers are on a cold start. Slow? Refresh and wait a minute. Or don't. Up to you.
 
 </div>
